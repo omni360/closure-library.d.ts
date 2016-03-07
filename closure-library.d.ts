@@ -1,3 +1,7 @@
+// Type definitions for closure-library.js
+// Project: https://github.com/google/closure-library
+// Definitions by: Teppei Sato <teppeis@gmail.com> Hou Chunlei <omni360@qq.com>
+// Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 /// <reference path="closure/goog/a11y/aria/announcer.d.ts" />
 /// <reference path="closure/goog/a11y/aria/aria.d.ts" />
 /// <reference path="closure/goog/a11y/aria/attributes.d.ts" />
